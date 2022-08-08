@@ -1,6 +1,6 @@
 # Introduction
 
-The code is copied from [https://github.com/docker/awesome-compose/tree/master/flask-redis awesome-compose flask-redis] and modified for `podman` to use
+The code is copied from [awesome-compose flask-redis](https://github.com/docker/awesome-compose/tree/master/flask-redis) and modified for `podman` to use
 
 ````
 $ podman play kube --replace pod.yaml
